@@ -1,4 +1,4 @@
-,date,weather,day,sales
+index,date,weather,day,sales
 0,2024-01-01,sunny,Monday,79.0
 1,2024-01-02,rainy,Tuesday,80.0
 2,2024-01-03,rainy,Wednesday,84.0
